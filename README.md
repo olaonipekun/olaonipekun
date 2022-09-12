@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olaonipekun
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python and web development
+- 🌱 I’m currently learning python, computer mathematics and web development
 - 💞️ I’m looking to collaborate on particularly python projects and web development projects as well
 - 📫 How to reach me ... you can through social media:
 - Twitter - https://twitter.com/Lolas_studio
